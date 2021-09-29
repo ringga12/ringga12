@@ -1,9 +1,5 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is alringga rizky 
 #### Data science and data analysis enthusiast
-![Data science and data analysis enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Iam Alringga from Indonesia,I recently graduate from University Islam Indonesia Yogyakarta. During my education, i have established and taking interest in data analysis, data scientist,data visualization statiscs analysis. I really enjoy learning and working with data,because with data you can extract and gathering some useful information with can be benefit/useful for social activity Internet user and it can analyze and evaluate public expressions, opinions, attitudes and reactions to organizations, services, products and problems.
 
 Skills: R / Phyton/ Panda / Data Scince / Data Analysis/ Data Visualization/ Data Mining/ Statistical Analysis
